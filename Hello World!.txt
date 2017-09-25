@@ -1,4 +1,4 @@
 Print
-(Hello World!)
-(Hello everybody!)
-Hello
+(Hello World!);
+(Hello everybody!);
+Hello;
